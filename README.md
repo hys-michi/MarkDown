@@ -1,8 +1,8 @@
 # MarkDown ファイルの利用設定
 
-MarkDownファイル（***.md ファイル）の利用設定
+MarkDownファイル（***.md ファイル）を表示するための設定方法
 
-# Google Chrome で MarkDownファイルの表示対応設定
+# Google Chrome の MarkDownファイルの表示対応設定
 
 ## Chromeウェブストア で拡張機能 Markdown Viewer をインストールする
 
